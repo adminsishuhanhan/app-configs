@@ -1877,42 +1877,42 @@
         "douyin.com"
       ],
       "regex": [
-        "是播放链接="
-      输入：]
+        "is_play_url="
+      ]
     },
     {
-      "名称": "农民嗅探",
-      "主机": [
+      "name": "农民嗅探",
+      "hosts": [
         "toutiaovod.com"
-      ]，
-      "正则表达式": [
+      ],
+      "regex": [
         "video/tos/cn"
-      输入：]
+      ]
     },
     {
-      "名称": "夜市",
-      "主机": [
+      "name": "夜市",
+      "hosts": [
         "yeslivetv.com"
-      ]，
-      "脚本": [
+      ],
+      "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      输入：]
+      ]
     },
     {
-      "名字": "毛驴",
-      "主机": [
+      "name": "毛驴",
+      "hosts": [
         "www.maolvys.com"
-      ]，
-      "脚本": [
+      ],
+      "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      输入：]
+      ]
     },
     {
-      "名称": "磁力广告",
-      "主机": [
-        “磁铁”
-      ]，
-      "正则表达式": [
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
         "更多",
         "社 區",
         "x u u",
