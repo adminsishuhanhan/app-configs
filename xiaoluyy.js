@@ -1,8 +1,8 @@
 {
   "spider": "./spider.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
-  "logo": "https://mpimg.cn/view.php/1757bb0c3e37ab0a78a12c6a64598cf2.gif",
-  "warningText": "听音乐就用小鹿音乐，资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
+  "warningText": "听音乐就用如意音乐，资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
     {
       "name": "美加墨世界杯",
@@ -42,7 +42,7 @@
   "sites": [
     {
       "key": "配置中心1",
-      "name": "🎤小鹿B站登录┃其它线路",
+      "name": "🎤如意B站登录┃其它线路",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -55,7 +55,7 @@
     },
     {
       "key": "MTV2",
-      "name": "🎤小鹿┃明星MV二线",
+      "name": "🎤如意┃明星MV二线",
       "type": 3,
       "jar": "./lib/bhxq.jar",
       "api": "csp_Bili",
@@ -70,7 +70,7 @@
     },
     {
       "key": "哔哩演唱会",
-      "name": "🎤小鹿┃演唱会一线",
+      "name": "🎤如意┃演唱会一线",
       "type": 3,
       "jar": "./lib/spider.jar",
       "api": "csp_Bili",
@@ -88,7 +88,7 @@
     },
     {
       "key": "演唱会",
-      "name": "🎤小鹿┃演唱会二线",
+      "name": "🎤如意┃演唱会二线",
       "type": 3,
       "jar": "./lib/bhxq.jar",
       "api": "csp_Bili",
@@ -99,7 +99,7 @@
     },
     {
       "key": "哔哩哔哩",
-      "name": "🎤小鹿┃综合一线",
+      "name": "🎤如意┃综合一线",
       "type": 3,
       "jar": "./lib/bhxq.jar",
       "api": "csp_Bili",
@@ -110,7 +110,7 @@
     },
     {
       "key": "哔哩合集",
-      "name": "🎤小鹿┃综合二线",
+      "name": "🎤如意┃综合二线",
       "type": 3,
       "jar": "./lib/spider.jar",
       "api": "csp_Bili",
@@ -129,7 +129,7 @@
     },
     {
       "key": "MTV1",
-      "name": "🎤小鹿┃易听（打开刷新即可）",
+      "name": "🎤如意┃易听（打开刷新即可）",
       "type": 3,
       "jar": "https://oss4liview.moji.com/thd_file/2026/05/02/e007e4cb7e6715074cf8dbe0276b845f.jpg;md5;69a2e21f399421cf1f012a5ad501e31f",
       "api": "csp_MusicGuard",
@@ -144,7 +144,7 @@
     },
     {
       "key": "MTV",
-      "name": "🎤小鹿┃明星MV一线",
+      "name": "🎤如意┃明星MV一线",
       "type": 3,
       "jar": "https://oss4liview.moji.com/thd_file/2026/04/22/af3693c54efdb287866bcf0349f605c1.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
       "api": "csp_BiliGuard",
@@ -161,7 +161,7 @@
     },
     {
       "key": "MusicIKtv",
-      "name": "🎤小鹿┃KTV",
+      "name": "🎤如意┃KTV",
       "type": 3,
       "jar": "./lib/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_MusicIKtvGuard",
@@ -170,13 +170,13 @@
     },
     {
       "key": "网易歌曲下载.py",
-      "name": "🎤小鹿┃网易",
+      "name": "🎤如意┃网易",
       "type": 3,
       "api": "./lib/网易歌曲下载.py"
     },
     {
       "key": "csp_Kugou",
-      "name": "🎤小鹿┃酷狗",
+      "name": "🎤如意┃酷狗",
       "type": 3,
       "api": "csp_Kugou",
       "playerType": 2,
@@ -191,7 +191,7 @@
     },
     {
       "key": "MusicKuWo",
-      "name": "🎤小鹿┃酷听",
+      "name": "🎤如意┃酷听",
       "type": 3,
       "jar": "./lib/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_MusicKuWoGuard",
@@ -200,7 +200,7 @@
     },
     {
       "key": "Cat_聚合音乐",
-      "name": "🎤小鹿┃聚合",
+      "name": "🎤如意┃聚合",
       "type": 3,
       "api": "./lib/yinyue_juhe.js",
       "searchable": 1,
@@ -209,7 +209,7 @@
     },
     {
       "key": "枫叶音乐",
-      "name": "🎤小鹿┃枫叶",
+      "name": "🎤如意┃枫叶",
       "type": 3,
       "jar": "https://gitee.com/lzxw9527/jiuyue/raw/master/bzc0423.png",
       "api": "./lib/2090fedb67387ea1a1ad908a94eb0aa6.py",
@@ -220,7 +220,7 @@
     },
     {
       "key": "Cat_听海",
-      "name": "🎤小鹿┃听海",
+      "name": "🎤如意┃听海",
       "type": 3,
       "api": "./lib/tinghai_ting.js",
       "searchable": 1,
@@ -229,7 +229,7 @@
     },
     {
       "key": "爱听音乐",
-      "name": "🎤小鹿┃爱听",
+      "name": "🎤如意┃爱听",
       "type": 3,
       "api": "./lib/b3284feb00815ddd5d7e71e1468d9cf1.py",
       "searchable": 1,
@@ -239,7 +239,7 @@
     },
     {
       "key": "MusicLunHui",
-      "name": "🎤小鹿┃舞曲",
+      "name": "🎤如意┃舞曲",
       "type": 3,
       "jar": "./lib/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_MusicLunHuiGuard",
@@ -248,7 +248,7 @@
     },
     {
       "key": "哔哩戏曲",
-      "name": "🎤小鹿｜戏曲",
+      "name": "🎤如意｜戏曲",
       "type": 3,
       "jar": "./lib/spider.jar",
       "api": "csp_Bili",
@@ -266,7 +266,7 @@
     },
     {
       "key": "WexTangDou",
-      "name": "🎤小鹿｜广场舞",
+      "name": "🎤如意｜广场舞",
       "type": 3,
       "jar": "./lib/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
       "api": "csp_WexTangDouGuard",
@@ -279,7 +279,7 @@
     },
     {
       "key": "戏曲多多",
-      "name": "🎤小鹿｜梨园行一线",
+      "name": "🎤如意｜梨园行一线",
       "type": 3,
       "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;c93ec11c288c461bc5bfded3e1424529",
       "api": "csp_AppLY",
@@ -289,28 +289,28 @@
     },
     {
       "key": "戏曲大全",
-      "name": "🎤小鹿｜梨园行二线",
+      "name": "🎤如意｜梨园行二线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://rihou.cc:88/js/戏曲大全.js"
     },
     {
       "key": "哔哩视频",
-      "name": "🎤小鹿｜影视",
+      "name": "🎤如意｜影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/bili.js"
     },
     {
       "key": "哔哩",
-      "name": "🎤小鹿｜影视4K",
+      "name": "🎤如意｜影视4K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩.js"
     },
     {
       "key": "哔哩相声",
-      "name": "🎤小鹿｜相声",
+      "name": "🎤如意｜相声",
       "type": 3,
       "jar": "./lib/spider.jar",
       "api": "csp_Bili",
@@ -328,7 +328,7 @@
     },
     {
       "key": "哔哩小品",
-      "name": "🎤小鹿｜小品",
+      "name": "🎤如意｜小品",
       "type": 3,
       "jar": "./lib/spider.jar",
       "api": "csp_Bili",
@@ -346,7 +346,7 @@
     },
     {
       "key": "push_agent",
-      "name": "听音乐就用小鹿音乐",
+      "name": "听音乐就用如意音乐",
       "type": 3,
       "api": "csp_Push",
       "jar": "./lib/fty.jar",
